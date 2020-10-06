@@ -1,0 +1,360 @@
+[
+  {
+    "fylke": "Viken",
+    "serier": [
+      {
+        "omraade": "Asker og Bærum",
+        "kombinasjoner": ["BL","BN","BP","BR","BS","BT","BU","BV","BX","BY","BZ","CA","CB"]
+      },
+      {
+        "omraade": "Drammen",
+        "kombinasjoner": ["KE","KF","KH","KJ","KK","KL","KN","KP","KR","KS"]
+      },
+      {
+        "omraade": "Drøbak",
+        "kombinasjoner": ["BC","BD","BE","BF","BH","BJ","BK"]
+      },
+      {
+        "omraade": "Gol",
+        "kombinasjoner": ["KB","KC","KD"]
+      },
+      {
+        "omraade": "Hafslund (tidligere Fredrikstad)",
+        "kombinasjoner": ["AD","AR","AS","AT","AU","AV","AW","DW","FL","ES"]
+      },
+      {
+        "omraade": "Halden",
+        "kombinasjoner": ["AA","AB","AC"]
+      },
+      {
+        "omraade": "Hønefoss",
+        "kombinasjoner": ["JU","JV","JX","JY","JZ","KA"]
+      },
+      {
+        "omraade": "Jessheim",
+        "kombinasjoner": ["CV","CX","CY","CZ","CU"]
+      },
+      {
+        "omraade": "Kongsberg",
+        "kombinasjoner": ["KT","KU","KV","KX","KY "]
+      },
+      {
+        "omraade": "Lillestrøm",
+        "kombinasjoner": ["CC","CE","CF","CH","CJ","CK","CL","CN","CP","CR","CS","CT","CU"]
+      },
+      {
+        "omraade": "Moss",
+        "kombinasjoner": ["AX","AY","AZ","BA"]
+      },
+      {
+        "omraade": "Mysen",
+        "kombinasjoner": ["AJ","AK","AL","AN","AP","FN","BW"]
+      },
+      {
+        "omraade": "Sarpsborg",
+        "kombinasjoner": ["AE","AF","AH"]
+      }
+    ]
+  },
+  {
+    "fylke": "Oslo",
+    "serier": [
+      {
+        "omraade": "Oslo",
+        "kombinasjoner":["DA","DB","DC","DD","DE","DF","DH","DJ","DK","DL","DN","DP","DR","DS","DT","DU","DV","DX","DY","DZ","EA","ED","EE","EF","EH","EJ","EN","EP","ER","EU"]
+      }
+    ]
+  },
+  {
+    "fylke": "Innlandet",
+    "serier": [
+      {
+        "omraade": "Elverum",
+        "kombinasjoner":["HB","HC","HD","HE","HA","FZ"]
+      },
+      {
+        "omraade": "Fagernes",
+        "kombinasjoner":["JR","JS","JT"]
+      },
+      {
+        "omraade": "Gjøvik",
+        "kombinasjoner":["JC","JD","JE","JF","JH","JJ","JK","JL","JN","JP"]
+      },
+      {
+        "omraade": "Hamar",
+        "kombinasjoner":["FS","FT","FU","FV","FX","FY","FZ","FW","ET"]
+      },
+
+      {
+        "omraade": "Kongsvinger",
+        "kombinasjoner":["HJ","HK","HL","HN","HP","HR"]
+      },
+      {
+        "omraade": "Lillehammer",
+        "kombinasjoner":["HS","HT","HU","HV","HX","FB"]
+      },
+      {
+        "omraade": "Otta",
+        "kombinasjoner":["HZ","JA","JB"]
+      },
+      {
+        "omraade": "Tynset",
+        "kombinasjoner":["HF","HH"]
+      }
+    ]
+  },
+  {
+    "fylke": "Vestfold og Telemark",
+    "serier": [
+      {
+        "omraade": "Horten",
+        "kombinasjoner":["KZ","LA","LB","LC","LD"]
+      },
+      {
+        "omraade": "Larvik",
+        "kombinasjoner":["LS","LT","LU","LV","LX","LZ","NA","NB","NC"]
+      },
+      {
+        "omraade": "Notodden",
+        "kombinasjoner":["NV","NX","NY","NZ"]
+      },
+      {
+        "omraade": "Rjukan",
+        "kombinasjoner":["PA","PB"]
+      },
+      {
+        "omraade": "Sandefjord",
+        "kombinasjoner":["LY","NA"]
+      },
+      {
+        "omraade": "Skien",
+        "kombinasjoner":["ND","NE","NF","NH","NJ","NK","NL","NN","NP","NR","NT","NU"]
+      },
+      {
+        "omraade": "Tønsberg",
+        "kombinasjoner":["LH","LJ","LK","LL","LN","LP","LR","LD"]
+      }
+    ]
+  },
+  {
+    "fylke": "Agder",
+    "serier": [
+      {
+        "omraade": "Arendal",
+        "kombinasjoner": ["PC","PD","PE","PF","PH","PJ","PK"]
+      },
+      {
+        "omraade": "Flekkefjord",
+        "kombinasjoner":["RA","RB"]
+      },
+      {
+        "omraade": "Kristiansand",
+        "kombinasjoner":["PN","PP","PR","PS","PT","PU","PV","PW"]
+      },
+      {
+        "omraade": "Mandal",
+        "kombinasjoner":["PX","PY","PZ","RC","RD"]
+      },
+      {
+        "omraade": "Setersdal",
+        "kombinasjoner":["PL","LF"]
+      }
+    ]
+  },
+  {
+    "fylke": "Rogaland",
+    "serier": [
+      {
+        "omraade": "Egersund",
+        "kombinasjoner": ["RZ","SA","SB"]
+      },
+      {
+        "omraade": "Haugesund",
+        "kombinasjoner":["SC","SD","SE","SF","SH","SJ","SK","SL"]
+      },
+      {
+        "omraade": "Stavanger",
+        "kombinasjoner":["RE","RF","RH","RJ","RK","RL","RN","RP","RR","RS","RT","RU","RV","RX","RY","RW"]
+      }
+    ]
+  },
+  {
+    "fylke": "Vestland",
+    "serier": [
+      {
+        "omraade": "Bergen",
+        "kombinasjoner": ["SN","SP","SR","SS","ST","SU","SV","SX","SY","SZ","TA","TB","TC","TD","TE","HW"]
+      },
+      {
+        "omraade": "Førde",
+        "kombinasjoner":["TV","TX","TY","TZ"]
+      },
+      {
+        "omraade": "Nordfjordeid",
+        "kombinasjoner":["UA","UB"]
+      },
+      {
+        "omraade": "Odda",
+        "kombinasjoner": ["TS","TT","TU"]
+      },
+      {
+        "omraade": "Sogndal",
+        "kombinasjoner":["UC","UD"]
+      },
+      {
+        "omraade": "Stord",
+        "kombinasjoner":["TL","TN","TP","TR"]
+      },
+      {
+        "omraade": "Voss",
+        "kombinasjoner":["TF","TH","TJ","TK"]
+      }
+
+    ]
+  },
+  {
+    "fylke": "Møre og Romsdal",
+    "serier": [
+      {
+        "omraade": "Kristiansund",
+        "kombinasjoner": ["UX","UY","UZ","VA"]
+      },
+      {
+        "omraade": "Molde",
+        "kombinasjoner":["UR","US","UT","UU","UV"]
+      },
+      {
+        "omraade": "Sunndalsøra",
+        "kombinasjoner":["VB","VC"]
+      },
+      {
+        "omraade": "Ørsta",
+        "kombinasjoner": ["UN","UP","BB"]
+      },
+      {
+        "omraade": "Ålesund",
+        "kombinasjoner":["UE","UF","UH","UJ","UK","UL"]
+      }
+    ]
+  },
+  {
+    "fylke": "Trøndelag",
+    "serier": [
+      {
+        "omraade": "Brekstad",
+        "kombinasjoner":["XA","XB","XC"]
+      },
+      {
+        "omraade": "Levanger",
+        "kombinasjoner":["XK","XL","VW"]
+      },
+      {
+        "omraade": "Namsos",
+        "kombinasjoner":["XR","XS","XT","XU"]
+      },
+      {
+        "omraade": "Orkdal",
+        "kombinasjoner": ["VX","VY","VZ"]
+      },
+      {
+        "omraade": "Steinkjer",
+        "kombinasjoner":["XD","XE","XF","XH","XJ","XW"]
+      },
+      {
+        "omraade": "Stjørdal",
+        "kombinasjoner":["XN","XP","YW"]
+      },
+      {
+        "omraade": "Støren",
+        "kombinasjoner": ["VS","VT"]
+      },
+      {
+        "omraade": "Trondheim",
+        "kombinasjoner":["FP","VD","VE","VF","VH","VJ","VK","VL","VN","VP","VR","VS","VU","VV","NW"]
+      }
+    ]
+  },
+  {
+    "fylke": "Nordland",
+    "serier": [
+      {
+        "omraade": "Bodø",
+        "kombinasjoner":["YE","YF","YH","YJ","FD","EZ"]
+      },
+      {
+        "omraade": "Fauske",
+        "kombinasjoner":["YK","YL"]
+      },
+      {
+        "omraade": "Mo i Rana",
+        "kombinasjoner":["YA","YB","YC","YD"]
+      },
+      {
+        "omraade": "Mosjøen",
+        "kombinasjoner": ["XV","XX","XY","XZ","FA"]
+      },
+      {
+        "omraade": "Narvik",
+        "kombinasjoner":["YN","YP","YR","YS"]
+      },
+      {
+        "omraade": "Sortland",
+        "kombinasjoner":["YU","YV","YX"]
+      },
+      {
+        "omraade": "Svolvær",
+        "kombinasjoner": ["YT","YY"]
+      }
+    ]
+  },
+  {
+    "fylke": "Troms og Finnmark",
+    "serier": [
+      {
+        "omraade": "Alta",
+        "kombinasjoner":["ZT","ZU","ZV","ZY","ZW","UW "]
+      },
+      {
+        "omraade": "Finnsnes",
+        "kombinasjoner":["ZD","ZF","ZJ","EX"]
+      },
+      {
+        "omraade": "Hammerfest",
+        "kombinasjoner":["ZX","FF","EX"]
+      },
+      {
+        "omraade": "Harstad",
+        "kombinasjoner": ["YZ","ZA","ZB","TW "]
+      },
+      {
+        "omraade": "Kirkenes",
+        "kombinasjoner":["ZS","EY"]
+      },
+      {
+        "omraade": "Lakselv",
+        "kombinasjoner":["ZZ","CW"]
+      },
+      {
+        "omraade": "Storslett",
+        "kombinasjoner": ["FK","SW "]
+      },
+      {
+        "omraade": "Tromsø",
+        "kombinasjoner":["ZC","ZE","ZH","ZK","ZL","FC"]
+      },
+      {
+        "omraade": "Vadsø",
+        "kombinasjoner": ["FR","ZP","ZR","LE"]
+      }
+    ]
+  },
+  {
+    "fylke": "-",
+    "serier": [
+      {
+        "omraade": "Svalbard",
+        "kombinasjoner":["ZN","FH"]
+      }
+    ]
+  }
+]
