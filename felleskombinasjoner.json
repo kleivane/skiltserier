@@ -1,0 +1,26 @@
+[
+    {
+      "Elektriskdrevet kjøretøy": [
+        "EL",
+        "EK",
+        "EV",
+        "EB",
+        "EC"
+      ]
+    },
+    {
+      "Gassdrevet kjøretøy": [
+        "GA"
+      ]
+    },
+    {
+      "Hydrogendrevet kjøretøy": [
+        "HY"
+      ]
+    },
+    {
+      "Ambassadekjøretøy (Corps Diplomatique)": [
+        "CD"
+      ]
+    }
+  ]
