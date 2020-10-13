@@ -36,7 +36,7 @@
       },
       {
         "omraade": "Kongsberg",
-        "kombinasjoner": ["KT","KU","KV","KX","KY "]
+        "kombinasjoner": ["KT","KU","KV","KX","KY"]
       },
       {
         "omraade": "Lillestrøm",
@@ -312,7 +312,7 @@
     "serier": [
       {
         "omraade": "Alta",
-        "kombinasjoner":["ZT","ZU","ZV","ZY","ZW","UW "]
+        "kombinasjoner":["ZT","ZU","ZV","ZY","ZW","UW"]
       },
       {
         "omraade": "Finnsnes",
@@ -324,7 +324,7 @@
       },
       {
         "omraade": "Harstad",
-        "kombinasjoner": ["YZ","ZA","ZB","TW "]
+        "kombinasjoner": ["YZ","ZA","ZB","TW"]
       },
       {
         "omraade": "Kirkenes",
@@ -336,7 +336,7 @@
       },
       {
         "omraade": "Storslett",
-        "kombinasjoner": ["FK","SW "]
+        "kombinasjoner": ["FK","SW"]
       },
       {
         "omraade": "Tromsø",
