@@ -1,0 +1,6502 @@
+{
+  "erna-dev-skiltserier": [
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Asker og Bærum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drammen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Drøbak"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gol"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gol"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gol"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ES"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hafslund (tidligere Fredrikstad)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Halden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Halden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Halden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hønefoss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hønefoss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hønefoss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hønefoss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hønefoss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hønefoss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Jessheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Jessheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Jessheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Jessheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Jessheim"
+              },
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillestrøm"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Moss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Moss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Moss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Moss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mysen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sarpsborg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sarpsborg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "AH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sarpsborg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "DZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ED"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ER"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Oslo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Elverum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Elverum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Elverum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Elverum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Elverum"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Elverum"
+              },
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Fagernes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Fagernes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Fagernes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Gjøvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ET"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hamar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsvinger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsvinger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsvinger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsvinger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsvinger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kongsvinger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillehammer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillehammer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillehammer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillehammer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillehammer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lillehammer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Otta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Otta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "JB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Otta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tynset"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tynset"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "KZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Horten"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Horten"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Horten"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Horten"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Horten"
+              },
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              },
+              {
+                "S": "Sandefjord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Larvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Notodden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Notodden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Notodden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Notodden"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Rjukan"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Rjukan"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sandefjord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ND"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Skien"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tønsberg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Arendal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Flekkefjord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Flekkefjord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansand"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mandal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mandal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mandal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mandal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mandal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "PL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Setersdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Setersdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Egersund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Egersund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Egersund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Haugesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "RW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stavanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ST"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "HW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bergen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Førde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Førde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Førde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Førde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Nordfjordeid"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Nordfjordeid"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Odda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Odda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Odda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sogndal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sogndal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stord"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Voss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Voss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Voss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Voss"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kristiansund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Molde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "US"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Molde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Molde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Molde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Molde"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sunndalsøra"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sunndalsøra"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ørsta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ørsta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "BB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ørsta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ålesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ålesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ålesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ålesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ålesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Ålesund"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Brekstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Brekstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Brekstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Levanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Levanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Levanger"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Namsos"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Namsos"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Namsos"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Namsos"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Orkdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Orkdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Orkdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Steinkjer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Steinkjer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Steinkjer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Steinkjer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Steinkjer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Steinkjer"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stjørdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stjørdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Stjørdal"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Støren"
+              },
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Støren"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "VV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "NW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Trondheim"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bodø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bodø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bodø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bodø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bodø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Bodø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Fauske"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Fauske"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mo i Rana"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mo i Rana"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mo i Rana"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mo i Rana"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mosjøen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mosjøen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mosjøen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "XZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mosjøen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Mosjøen"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Narvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Narvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Narvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Narvik"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sortland"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sortland"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Sortland"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Svolvær"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Svolvær"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZT"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Alta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZU"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Alta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZV"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Alta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Alta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Alta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "UW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Alta"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZD"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Finnsnes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Finnsnes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZJ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Finnsnes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Finnsnes"
+              },
+              {
+                "S": "Hammerfest"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZX"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hammerfest"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FF"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Hammerfest"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "YZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Harstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZA"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Harstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZB"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Harstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "TW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Harstad"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZS"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kirkenes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "EY"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Kirkenes"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZZ"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lakselv"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "CW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Lakselv"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Storslett"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "SW"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Storslett"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tromsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tromsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZH"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tromsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZK"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tromsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZL"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tromsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FC"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Tromsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "FR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Vadsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZP"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Vadsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZR"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Vadsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "LE"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Vadsø"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "bokstavkombinasjon": {
+            "S": "ZN"
+          },
+          "omraader": {
+            "L": [
+              {
+                "S": "Svalbard"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
